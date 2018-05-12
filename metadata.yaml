@@ -1,0 +1,37 @@
+_repo: The-Adventurous-Simplicissimus--13-being-the-description-of-the-Life-of-a-Strange-vagabond-na__33858
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Grimmelshausen, Hans Jacob Christoph von
+    aliases:
+    - Grimmelshausen, Johann Jakob Christoffel von
+    - Trommenheim, Philarchus Grossus von
+    - Grimmelshausen, Hans Jacob Christoffel von
+    - Sulsfort, German Schleifheim, von
+    - Sehmsdorff, Michael Rechulin von
+    - Hirschfeld, Samuel Greiffenson von
+    - Von Grimmelshausen, Hans Jakob Christoph
+    birthdate: 1621
+    deathdate: 1676
+    gutenberg_agent_id: '36737'
+    url: http://www.gutenberg.org/2009/agents/36737
+    wikipedia: http://en.wikipedia.org/wiki/Hans_Jakob_Christoffel_von_Grimmelshausen
+description: ''
+gutenberg_issued: '2010-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33858'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German fiction -- Translations into English'
+- !lcsh 'Thirty Years'' War, 1618-1648 -- Fiction'
+title: "The Adventurous Simplicissimus\r\nbeing the description of the Life of a Strange\
+  \ vagabond named Melchior Sternfels von Fuchshaim"
+url: http://www.gutenberg.org/ebooks/33858

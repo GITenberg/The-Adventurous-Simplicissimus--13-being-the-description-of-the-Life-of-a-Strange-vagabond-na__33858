@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36737
     wikipedia: http://en.wikipedia.org/wiki/Hans_Jakob_Christoffel_von_Grimmelshausen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33858#The-Adventurous-Simplicissimus--13-being-the-description-of-the-Life-of-a-Strange-vagabond-na_
 gutenberg_issued: '2010-10-14'
 gutenberg_type: Text
 identifiers:
